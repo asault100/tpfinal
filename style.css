@@ -1,0 +1,199 @@
+body{
+    background-image: linear-gradient(to top, #c71d6f 0%, #d09693 100%);
+}
+.descuento{
+    background-color:rgb(0, 255, 34);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.logo{
+    background-image: linear-gradient(45deg, #874da2 0%, #c43a30 100%);
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    width: 400px;
+    height: 100px;
+    float: left;
+    border:solid
+}
+
+.navegacion{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    width: 1500px;
+    height: 100px;
+    border:transparent;
+    background-image: linear-gradient(45deg, #874da2 0%, #c43a30 100%);
+    
+}
+
+.item1, .item2, .item3, .item4{
+    font-size: 40px;
+    color: black;
+
+} 
+
+.titulo{
+    font-family: 'Abril Fatface', cursive;
+    margin-top: 25px;
+}
+.card{
+    width: 300px;
+    height:480px;
+    float:left;
+    margin: 16px;
+    background-color: white;
+}    
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+aside{
+    float:inline-start;
+    clear: right;
+    margin-top: 50px;
+    margin-left: 40px;
+   
+    
+}
+
+.ofertas{
+    float:left;
+    
+}
+
+.celulares{
+    float: left;
+}
+
+footer{
+    float: left;
+    clear: both;
+    background-image: linear-gradient(45deg, #874da2 0%, #c43a30 100%);
+    
+}
+
+.audio{
+    float: left;
+}
+
+.repuestos{
+    float: left;
+}
+
+.electrodomesticos{
+    float: left;
+}
+
+.fin{
+    width: 300px; 
+    margin-left: 50%;
+    transform: translateX(-50%);
+    font-size: 20px;
+    
+    
+}
+
+footer{
+    width: 100%;
+    font-size: 20px;
+}
+
+.contacto, .redes, .legales, .pago{
+    float: left;
+    padding: 50px;
+}
+
+.foto{
+    width: 45px;
+    height: 45px;
+   
+    
+}
+
+.formulario{
+    float: left;
+    width: 40%;
+    padding: 5px;
+    padding-left: 20px;
+   
+
+
+} 
+
+.nombre, .apellido, .email, .celular, .garantia, .mensaje{
+    float: left;
+}
+
+label{
+    float: inherit;
+    padding: 15px;
+    width: 33%;
+}
+
+textarea{
+    
+    padding: 30px;
+    width: 33%;
+}
+input{
+    
+    padding: 15px;
+    
+}
+
+.enviar{
+    width: 300px; 
+    margin-left: 50%;
+    transform: translateX(-130%);
+    font-size: 20px;
+   
+    
+    
+}
+
+
+h1{
+    padding-top: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 15px;
+
+}
+.h2{
+    float:left;
+    clear: left;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imagen{
+    width: 800px;
+    height: 800px;
+    border: solid;
+    margin: 15px;
+}
+
+.ofert{
+    float: left;
+    width: 40%;
+}
+.precio{
+    float: right;
+    clear:right;
+    font-size: 40px;
+    width: 45%;
+}
+
+.descripcion{
+    float: left;
+    margin: 100px;
+}
+
